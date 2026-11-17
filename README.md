@@ -1,6 +1,4 @@
-# Previous steps:
-
-- Download the dataset and drop it in the root of the main python file: https://liveutad-my.sharepoint.com/shared?listurl=https%3A%2F%2Fliveutad%2Dmy%2Esharepoint%2Ecom%2Fpersonal%2Fsilvia%5Fmartin%5Fu%2Dtad%5Fcom%2FDocuments&id=%2Fpersonal%2Fsilvia%5Fmartin%5Fu%2Dtad%5Fcom%2FDocuments%2FVisión%20por%20computador%2F25%2D26%2FT3%2FPráctica%2Fcards%2Ezip&parent=%2Fpersonal%2Fsilvia%5Fmartin%5Fu%2Dtad%5Fcom%2FDocuments%2FVisión%20por%20computador%2F25%2D26%2FT3%2FPráctica&shareLink=1&ga=1&share=cQrb%5FgD7FxbuRbSP%2DXF7mgdpEgUC5LaQLeGbOpG0jD3BRlUR0g
+![Image](assets/image.webp)
 
 # --- ESPAÑOL ---
 
