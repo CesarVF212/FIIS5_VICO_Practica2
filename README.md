@@ -12,6 +12,15 @@ En caso de necesitar reorganizar las imágenes dentro de cada conjunto de datos 
 
 En el improbable caso de un empate en el F1-score, no te preocupes, analizaremos las tasas de falsos positivos y falsos negativos para determinar al ganador. Estas tasas son críticas para evaluar cuán efectivo es tu modelo en la detección de errores y cómo maneja los casos negativos y positivos de manera precisa.
 
+## Pasos previos:
+
+- Clonar el repositorio a una carpeta vacía.
+- Crear un entorno virtual: python -m venv cnn_competition.
+- Activar el entorno: .\cnn_competition\Scripts\Activate (en Linux y Mac se hace de otra forma).
+- Instalar las dependencias necesarias: pip install -r "requirements.txt".
+- Descargar el dataset (https://www.kaggle.com/datasets/cesarvidal/cards-dataset) y descomprimirlo con el nombre cards en el mismo directorio donde esté el archivo .ipynb.
+
+
 ## Puntuación
 
 El premio para el ganador de cada categoría será de 3 puntos. ¡Pero eso no es todo! Los primeros puestos también tendrán su recompensa:

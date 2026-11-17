@@ -1,0 +1,6 @@
+ipykernel
+numpy
+opencv-python
+matplotlib
+torch
+kaggle
