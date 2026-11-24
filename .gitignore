@@ -1,7 +1,11 @@
 .DS_Store
 cnn_competition
+
 cards.zip
 cards/
 cards_reorganizado/
 __pycache__/
 .ipynb_checkpoints/
+
+*.png
+*.pth
