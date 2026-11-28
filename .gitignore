@@ -4,8 +4,9 @@ cnn_competition
 cards.zip
 cards/
 cards_reorganizado/
+cards_reorganizado_palos/
+
 __pycache__/
 .ipynb_checkpoints/
 
-*.png
 *.pth
